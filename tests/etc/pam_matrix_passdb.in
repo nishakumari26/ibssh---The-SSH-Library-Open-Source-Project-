@@ -1,0 +1,5 @@
+bob:secret:sshd
+alice:secret:sshd
+charlie:secret:sshd
+doe:secret:sshd
+noneuser::sshd
